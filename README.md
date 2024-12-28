@@ -23,7 +23,7 @@ npm install playwright
 Step 1: Clone the Repository
 Clone this repository to your local machine.
 
-git clone <repository_url>
+git clone https://github.com/RalphSmithOfime/MC2FinanceAssessment
 cd <repository_directory>
 Step 2: Install Dependencies
 Install Playwright and its dependencies:
